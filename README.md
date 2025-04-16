@@ -3,21 +3,21 @@ An AI-powered fitness companion built with HTML, CSS, and JavaScript. This proje
 
 🚀 Features :
 
-🤖 AI Integration for workout suggestions
+   🤖 AI Integration for workout suggestions
 
-🏃 Smart Form Detection using webcam (via pose detection)
+   🏃 Smart Form Detection using webcam (via pose detection)
 
-📋 Custom Workout Plans
+   📋 Custom Workout Plans
 
-🎯 Real-time Progress Tracking
+   🎯 Real-time Progress Tracking
 
-🎨 Clean, Responsive UI (mobile-first design)
+   🎨 Clean, Responsive UI (mobile-first design)
 
 
 🛠️ Tech Stack :
 
--Frontend: HTML5, CSS3, JavaScript (Vanilla)
+   -Frontend: HTML5, CSS3, JavaScript (Vanilla)
 
--AI Model: TensorFlow.js (PoseNet / MoveNet or similar)
+   -AI Model: TensorFlow.js (PoseNet / MoveNet or similar)
 
--Optional Add-ons: Chart.js for stats, LocalStorage for user sessions
+   -Optional Add-ons: Chart.js for stats, LocalStorage for user sessions
